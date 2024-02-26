@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "o45oeT95yf7Gz7AUtR5BYK/nCEwOhc2LnOIW2rybKKc=",
+  "Source": "tradingSystemServer",
+  "BasePath": "_content/tradingSystemServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
